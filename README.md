@@ -1,7 +1,7 @@
 # Project name and description
 
 ## analyse-NYSE-data-project
-Analyze real life data from the New York Stock Exchange. Drawing a subset of a large dataset that contains historical financial data from S&amp;P 500 companies.
+**Description**: Analyze real life data from the New York Stock Exchange. Drawing a subset of a large dataset that contains historical financial data from S&amp;P 500 companies.
 In this project, you will go through the process of calculating summary statistics, drawing any inference from the statistics, calculating business metrics, and using models to forecast future growth prospects for the companies. The goal is for you to perform an analysis and also create visual tools to communicate the results in informative ways.
 
 # Installation instructions
@@ -21,4 +21,5 @@ create visualizations of a business metric and use Excel or Google Sheets to cre
 
 # Contact information 
 **Email**: maysa.alhadhrami@gmail.com
+
 **LinkedIn**: https://www.linkedin.com/in/maysa-alhadhrami-526046247/
