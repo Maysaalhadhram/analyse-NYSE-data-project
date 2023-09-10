@@ -21,3 +21,4 @@ create visualizations of a business metric and use Excel or Google Sheets to cre
 
 # Contact information 
 **Email**: maysa.alhadhrami@gmail.com
+**LinkedIn**: https://www.linkedin.com/in/maysa-alhadhrami-526046247/
